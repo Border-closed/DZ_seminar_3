@@ -7,7 +7,7 @@ while (start < N+1)
 {
     double x = Math.Pow(start,3);
     Console.Write(x + ", ");
-    start = start+1;
+    start++;
 }
 }
 catch
