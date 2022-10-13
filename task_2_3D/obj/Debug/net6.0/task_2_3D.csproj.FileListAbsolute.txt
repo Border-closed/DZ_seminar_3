@@ -1,0 +1,15 @@
+/Users/samisusami/Desktop/Lesson_3_DZ/task_2_3D/obj/Debug/net6.0/task_2_3D.csproj.AssemblyReference.cache
+/Users/samisusami/Desktop/Lesson_3_DZ/task_2_3D/obj/Debug/net6.0/task_2_3D.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samisusami/Desktop/Lesson_3_DZ/task_2_3D/obj/Debug/net6.0/task_2_3D.AssemblyInfoInputs.cache
+/Users/samisusami/Desktop/Lesson_3_DZ/task_2_3D/obj/Debug/net6.0/task_2_3D.AssemblyInfo.cs
+/Users/samisusami/Desktop/Lesson_3_DZ/task_2_3D/obj/Debug/net6.0/task_2_3D.csproj.CoreCompileInputs.cache
+/Users/samisusami/Desktop/Lesson_3_DZ/task_2_3D/bin/Debug/net6.0/task_2_3D
+/Users/samisusami/Desktop/Lesson_3_DZ/task_2_3D/bin/Debug/net6.0/task_2_3D.deps.json
+/Users/samisusami/Desktop/Lesson_3_DZ/task_2_3D/bin/Debug/net6.0/task_2_3D.runtimeconfig.json
+/Users/samisusami/Desktop/Lesson_3_DZ/task_2_3D/bin/Debug/net6.0/task_2_3D.dll
+/Users/samisusami/Desktop/Lesson_3_DZ/task_2_3D/bin/Debug/net6.0/task_2_3D.pdb
+/Users/samisusami/Desktop/Lesson_3_DZ/task_2_3D/obj/Debug/net6.0/task_2_3D.dll
+/Users/samisusami/Desktop/Lesson_3_DZ/task_2_3D/obj/Debug/net6.0/refint/task_2_3D.dll
+/Users/samisusami/Desktop/Lesson_3_DZ/task_2_3D/obj/Debug/net6.0/task_2_3D.pdb
+/Users/samisusami/Desktop/Lesson_3_DZ/task_2_3D/obj/Debug/net6.0/task_2_3D.genruntimeconfig.cache
+/Users/samisusami/Desktop/Lesson_3_DZ/task_2_3D/obj/Debug/net6.0/ref/task_2_3D.dll
